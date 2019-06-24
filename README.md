@@ -10,12 +10,12 @@ Nuestro proyecto constará de una aplicacion que permita a los estudiantes votar
 
 
 
-10/06/2019
+### 10/06/2019
 Se creó el repositorio para guardar la documentación asociada a nuestro proyecto
 actividades preliminares a la realizacion del proyecto final.
 Estructuracion del proyecto, discusion de las opciones existentes.
 
-22/06/2019
+### 22/06/2019
 Eleccion final de la idea, discusion y distribucion de las tareas del proyecto. 
 
 
