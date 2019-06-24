@@ -1,5 +1,5 @@
 # VotaICI
-Integrantes 
+### Integrantes 
 > Giselle Acuña
 
 > Aymara Mason
