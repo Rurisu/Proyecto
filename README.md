@@ -1,7 +1,9 @@
 # VotaICI
 Integrantes 
 > Giselle Acuña
+
 > Aymara Mason
+
 > Amanda Marin
 
 ### Informacion general
