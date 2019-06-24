@@ -1,8 +1,8 @@
 # Proyecto
 Integrantes 
->Giselle Acuña
->Aymara Mason
->Amanda Marin
+>Giselle Acuña.
+>Aymara Mason.
+>Amanda Marin.
 
 Nuestro proyecto constará de una aplicacion que permita a los estudiantes votar de una forma sencilla y rápida, evitando utilizar medidas arcaicas, como lo es levantar la mano o utilizar papel.
 
