@@ -23,4 +23,8 @@ Estructuracion del proyecto, discusion de las opciones existentes.
 ### 22/06/2019
 Eleccion final de la idea, discusion y distribucion de las tareas del proyecto. 
 
-
+### 04/07/2019
+Conceptualizacion de la aplicación.
+1.- Como registro, para verificar la presencia del votante en los establecimientos, se deberá leer un codigoQR que se entregará en la ubicacion de la asamblea, para que el usuario pueda acceder a la aplicacion.
+2.- Se implementará una lista para almacenar los votos en cada opcion.
+3.- 
