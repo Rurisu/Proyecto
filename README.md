@@ -26,5 +26,5 @@ Eleccion final de la idea, discusion y distribucion de las tareas del proyecto.
 ### 04/07/2019
 Conceptualizacion de la aplicación.
 1.- Como registro, para verificar la presencia del votante en los establecimientos, se deberá leer un codigoQR que se entregará en la ubicacion de la asamblea, para que el usuario pueda acceder a la aplicacion.
-2.- Se implementará una lista para almacenar los votos en cada opcion.
-3.- 
+2.- el codigo QR redirigirá a la pagina web, donde el plugIn almacenará los datos de los votantes, tanto como su voto.
+
