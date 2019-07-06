@@ -29,3 +29,7 @@ Conceptualizacion de la aplicación.
 
 > 2.- el codigo QR redirigirá a la pagina web, donde el plugIn almacenará los datos de los votantes, tanto como su voto.
 
+### 06/07/2019
+Extension builder
+Extension para crear Alumnos -> Alumno(numero de matricula) almacenar 3 matriculas para verificar el login.
+
